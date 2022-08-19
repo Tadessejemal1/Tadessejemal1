@@ -27,10 +27,9 @@
 ---
 ### About Me :
 
-- 🔭 I’m currently currently available for hire
+- 🔭 I’m currently available for hire
 - 🌱 I’m currently learning Microverse
 - 👯 I’m looking to collaborate software engineers
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about Front-End Technology's
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkdin-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/tadessejemal-7b7058204/)
 - ⚡ Fun fact: I invest 12 hour in a day on coding
