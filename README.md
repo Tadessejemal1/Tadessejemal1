@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **Tadessejemal1/Tadessejemal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on Frelancer
@@ -10,4 +9,4 @@
 - 💬 Ask me about Front-End Technology's
 - 📫 How to reach me: 
 - ⚡ Fun fact: I invest 12 hour in a day on coding
--->
+
