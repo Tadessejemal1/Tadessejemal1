@@ -26,7 +26,7 @@
 
 ### About Me :
 
-- 🔭 I’m currently currently available for hire 
+- 🔭 I’m currently currently available for hire
 - 🌱 I’m currently learning Microverse
 - 👯 I’m looking to collaborate software engineers
 - 🤔 I’m looking for help with ...
