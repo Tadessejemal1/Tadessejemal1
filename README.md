@@ -30,8 +30,8 @@
 - 🌱 I’m currently learning Microverse
 - 👯 I’m looking to collaborate software engineers
 - 💬 Ask me about Front-End Technology's
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/tadesse-jemal-7b7058204/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+- 📫 How to reach me: **tadessejemal63@gmail.com**
+ 
   </a>
 - ⚡ Fun fact: I invest 12 hour in a day on coding
 
