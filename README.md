@@ -142,5 +142,12 @@
 
 ---
 ### My Stats :
+
+| Statistics |   Languages |
+| ---------- | ----------- |
+ | <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tadessejemal1&show_icons=true&theme=radical" alt="Tadesse Jemal" width="500" /> |   <img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tadessejemal1&layout=compact&langs_count=8&theme=algolia" alt="Tadesse Jemal" width="400"/>|
+</p><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Efiamotu-1" alt="Habeeb Efiamotu Musa Owolewa" /></a> </p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tadessejemal1&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadessejemal1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
