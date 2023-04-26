@@ -141,7 +141,7 @@
 </p>
 
 ---
-### My Stats :
+## My Stats :
 
 | Statistics |   Languages |
 | ---------- | ----------- |
@@ -150,5 +150,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Tadessejemal1" alt="Tadesse Jemal" /></a> </p>
 
+### Commit Streak
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Tadessejemal1&theme=dark&background=000000)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tadessejemal1&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
