@@ -29,6 +29,7 @@
 🔭 I’m currently available for hire👯 I’m looking to collaborate software engineers
 
 💬 Ask me about Front-End and Back-End Technology's
+
 📫 How to reach me: **tadessejemal63@gmail.com**
  
   </a>
