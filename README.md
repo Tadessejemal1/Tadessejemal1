@@ -74,16 +74,19 @@
       alt="webpack"/>
   </a>
 
+## Backend
+
 <p>
- <h3>Backend</h3>
-<p>
-  <a href="https://www.ruby-lang.org/en/" target="_blank"> 
-      <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="ruby"/> 
+  <a href="https://nodejs.org/en/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/> 
   </a>
-    <a href="https://rubyonrails.org/" target="_blank"> 
-      <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="ruby on rails"/> 
-	    ![Node.js](https://github.com/username/repository/blob/main/images/nodejs-logo.png)
-</p>  
+  <a href="https://www.python.org/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+  </a>
+  <img src="https://github.com/username/repository/blob/main/images/nodejs-logo.png" alt="Node.js Local" style="width: 100px;"/>
+  <img src="https://github.com/username/repository/blob/main/images/python-logo.png" alt="Python Local" style="width: 100px;"/>
+</p>
+
  <h3>Database</h3>
 <p>
   <a href="https://www.mysql.com/" target="_blank"> 
