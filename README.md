@@ -26,14 +26,12 @@
 
 ## About Me :
 
-- 🔭 I’m currently available for hire
-- 🌱 I’m currently learning Microverse
-- 👯 I’m looking to collaborate software engineers
-- 💬 Ask me about Front-End Technology's
-- 📫 How to reach me: **tadessejemal63@gmail.com**
+🔭 I’m currently available for hire👯 I’m looking to collaborate software engineers
+💬 Ask me about Front-End and Back-End Technology's
+📫 How to reach me: **tadessejemal63@gmail.com**
  
   </a>
-- ⚡ Fun fact: I invest 12 hour in a day on coding
+⚡ Fun fact: I invest 12 hour in a day on coding
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
