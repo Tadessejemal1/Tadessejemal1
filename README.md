@@ -137,9 +137,6 @@
   <a href="https://jenkins.io/" target="_blank"> 
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Jenkins_logo_with_title.svg/320px-Jenkins_logo_with_title.svg.png" alt="Jenkins" style="width: 120px;"/>
   </a>
-  <a href="https://about.gitlab.com/product/continuous-integration/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/GitLab_Logo.svg/320px-GitLab_Logo.svg.png" alt="GitLab CI" style="width: 120px;"/>
-  </a>
 </p>
 <p>
 <h3>Preferred IDEs & Tools :</h3>
