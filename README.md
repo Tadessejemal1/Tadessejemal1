@@ -135,6 +135,12 @@
   <a href="https://github.com/Efiamotu-1" target="_blank">
     <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   </a>
+	<a href="https://jenkins.io/" target="_blank"> 
+    <img src="https://github.com/username/repository/blob/main/images/jenkins-logo.png" alt="Jenkins" style="width: 120px;"/>
+  </a>
+  <a href="https://about.gitlab.com/product/continuous-integration/" target="_blank"> 
+    <img src="https://github.com/username/repository/blob/main/images/gitlab-ci-logo.png" alt="GitLab CI" style="width: 120px;"/>
+  </a>
 </p>
 <p>
 <h3>Preferred IDEs & Tools :</h3>
