@@ -120,10 +120,20 @@
   <a href="https://netlify.com/" target="_blank">
     <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=for-the-badge&logo=netlify&logoColor=black" alt="firebase"/>
   </a>
-  <!-- <a href="https://heroku.com" target="_blank"> 
+  <a href="https://heroku.com" target="_blank"> 
     <img src="https://img.shields.io/badge/heroku-430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
       alt="heroku"/> 
-  </a>  -->
+  </a>
+
+  <a href="https://vercel.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/> 
+  </a>
+  <a href="https://render.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Render-333333?style=for-the-badge&logo=render&logoColor=white" alt="Render"/> 
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/> 
+  </a>
 </p>
 <p>
 <h3>Version Control & CI/CD</h3>
