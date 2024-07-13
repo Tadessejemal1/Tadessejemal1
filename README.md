@@ -66,6 +66,9 @@
     <img src="https://img.shields.io/badge/reactjs-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"
       alt="react"/> 
   </a>
+		<a href="https://vuejs.org/" target="_blank"> 
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js"/> 
+  </a>
   <a href="https://redux.js.org" target="_blank"> 
     <img src="https://img.shields.io/badge/redux-764ABC.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/> 
   </a> 
